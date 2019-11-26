@@ -4,8 +4,6 @@ import PropTypes from 'prop-types';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus, faMinus } from '@fortawesome/free-solid-svg-icons';
 
-import './styles.css';
-
 const containerStyle = { 
     position: 'absolute', 
     zIndex: 1000 
